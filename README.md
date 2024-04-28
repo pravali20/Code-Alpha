@@ -1,1 +1,2 @@
-# pravalika50
+# Code Alpha
+Code Alpha Internship program
