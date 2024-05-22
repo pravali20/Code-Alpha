@@ -45,7 +45,7 @@ class StockPortfolio:
 
 
 def main():
-    api_key = 'X2S92X2NXSIZMORX'
+    api_key = 'your_alpha_vantage_api_key'
     portfolio = StockPortfolio(api_key)
 
     while True:
@@ -73,3 +73,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+        
